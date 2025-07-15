@@ -1,0 +1,26 @@
+body{
+    background-color: lightpink;
+}
+@media  (mini-width:320px){
+body{
+    background-color: darkcyan;
+
+}
+}
+@media  (mini-width:480px){
+
+body{
+
+background-color: darkorange;
+}
+@media (min-width:720px){
+body{
+    background-color: darkturquoise;
+}
+}
+@media (mini-width:1080px){
+    body{
+        background-color: darkorchid;
+    }
+}
+}
